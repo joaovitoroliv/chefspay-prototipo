@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "SF Pro Text-Regular";
+    src: url("../../fonts/SF-Pro-Text-Regular.otf") 
+}
+@font-face {
+    font-family: "SF Pro Text-Bold";
+    src: url("../../fonts/SF-Pro-Text-Bold.otf");
+}
+@font-face {
+    font-family: "Scandia-Regular";
+    src: url("../../fonts/Scandia-Regular.ttf");
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 439px;
+    left: 0px;
+    top: 5252px;
+    background: #000000;
+}
+
+.footer .sobre {
+    position: absolute;
+    left: 9.79%;
+    right: 73.54%;
+    top: 20.73%;
+    bottom: 48.97%;
+}
+
+.footer h3 {
+    font-family: 'SF Pro Text-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer a {
+    font-family: 'Scandia-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.footer .contato {
+    position: absolute;
+    left: 27.22%;
+    right: 47.85%;
+    top: 20.73%;
+    bottom: 42.14%;
+}
+
+.footer p {
+    margin: 0;
+    font-family: 'Scandia-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+/* .redes-sociais{
+    position: absolute;
+left: 66.18%;
+right: 10%;
+top: 18.22%;
+bottom: 72.67%;
+} */
+
+.redes-sociais h3 {
+    position: absolute;
+width: 140px;
+height: 17px;
+left: 953px;
+top: 93px;
+width: 200px;
+}
+.facebook { 
+position: absolute;
+left: 1156px;
+top: 93px;
+}
+.instagram { 
+position: absolute;
+left: 1206px;
+top: 93px;
+}
+.twitter {
+    
+position: absolute;
+left: 1256px;
+top: 93px;
+}
+.horizontal-line{
+    
+position: absolute;
+height: 1px;
+left: 9.79%;
+right: 9.93%;
+top: 338px;
+}
+.direitos {
+    position: absolute;
+    display: block;
+    height: 28px;
+    left: 9.79%;
+    top: 363px;
+    font-family: 'SF Pro Text-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.termos-e-condicoes{
+    position: absolute;
+    height: 28px;
+    right: 9.93%;
+    top: 363px;
+    
+    font-family: 'SF Pro Text-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF; 
+}

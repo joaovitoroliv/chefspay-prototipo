@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Libre Franklin";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600&display=swap") format("opentype");
+}
+@font-face {
+    font-family: 'Berlingske Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/BerlingskeSerif-Bold") format("opentype");
+}
+
+.secao6{
+    position: absolute;
+    width: 100%;
+    height: 682px;
+    left: 0px;
+    top: 3994px;
+    background: white;
+}
+
+.secao6 .texto {
+    position: absolute;
+    top: 96px;
+}
+
+.secao6 h1 {
+    width: 1008px;
+    height: 48px;
+    position: relative;
+    left: 216px;
+    margin: 0px;
+    top: 0px;
+    font-family: 'Berlingske Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 48px;
+    color: #000000;
+}
+
+.secao6 .texto p {
+    left: 217px;
+    width: 1008px;
+    height: 28px;
+    position: relative;
+
+    margin: 0px;
+    top: 0px;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #53565A;
+}
+
+.secao6 .box-duvidas {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px 24px 16px;
+    position: absolute;
+    width: 1008px;
+    height: 506px;
+    left: 216px;
+    top: 220px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.secao6 .perguntas-respostas p {
+    margin: 0px;
+    top: 0px;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #53565A;
+}

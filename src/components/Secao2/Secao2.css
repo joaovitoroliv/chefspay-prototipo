@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin:400,500,600");
+
+.secao2{
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F9F9F9 100%);
+}
+
+.card-1{
+position: absolute;
+width: 477px;
+height: 490px;
+left: 216px;
+top: 155px;
+}
+
+.titulo-primario{
+    position: absolute;
+width: 477px;
+height: 96px;
+left: 0px;
+top: 4px;
+font-family: 'Berlingske Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 50px;
+color: #000000;
+}
+
+.titulo-secundario{
+    position: absolute;
+width: 416px;
+height: 48px;
+left: 0px;
+top: 134px;
+font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #53565A;
+}
+
+.card-2{
+    position: absolute;
+    width: 637px;
+    height: 672px;
+    left: 804px;
+    top: 64px;
+}
+
+.card-1 .animacao {
+    position: relative;
+    margin-top: 232px;
+    margin-right: 61px;
+}

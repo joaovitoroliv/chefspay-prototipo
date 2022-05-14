@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Berlingske Serif-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/BerlingskeSerif-Bold") format("opentype");
+  }
+  @font-face {
+    font-family: "SF Pro Text-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SFProText-Regular") format("opentype");
+  }
+
+.secao4{
+  position: absolute;
+  width: 100%;
+  height: 1164px;
+  left: 0px;
+  top: 2360px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F9F9F9 100%);
+}
+
+.titulo-primario-1{
+  /* position: absolute;
+  top: 80px;
+  left: 31.55%; */
+  font-family: 'Berlingske Serif-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  color: #000000;
+  margin-top: 80px;
+  text-align: center;
+}
+.card-beneficios {
+  position: absolute;
+  left: 180px;
+  /* left: 18%; */
+  top: 320px;
+}
+.card-beneficios_2 {
+  position: absolute;
+  left: 214.5px;
+  /* left: 20%; */
+  top: 541px;
+}
+.card-beneficios_3 {
+  position: absolute;
+  left: 990px;
+  /* left: 60%; */
+  top: 320px;
+}
+.card-beneficios_4 {
+  position: absolute;
+  left: 1024px;
+  /* left: 62%; */
+  top: 541px;
+}
+
+.logos{
+position: absolute;
+left: 180px;
+/* left: 18%; */
+bottom: 64px;
+}
+
+.animacao4 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.linha2{
+  display: flex;
+  
+}

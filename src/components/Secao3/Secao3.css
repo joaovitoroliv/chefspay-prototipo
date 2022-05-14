@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "Berlingske Serif-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/BerlingskeSerif-Bold") format("opentype");
+  }
+@font-face {
+    font-family: "SF Pro Text-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SFProText-Regular") format("opentype");
+}
+
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin:400,500,600");
+
+.secao3{
+    position: absolute;
+width: 100%;
+height: 860px;
+left: 0px;
+top: 1500px;
+background: #1E1E1E;
+/* background-image: url("../img/textura.svg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secao3 h1 {
+    position: absolute;
+    width: 605px;
+height: 96px;
+left: 217px;
+top: 151px;
+font-family: 'Berlingske Serif-Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+.secao3 p, .secao5 p {
+    position: absolute;
+width: 424px;
+height: 48px;
+left: 217px;
+top: 264px;
+font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.secao3 .animacao2{
+    position: absolute;
+    top: 394px;
+    left: 185px;
+}
+
+.secao3 .animacao3 {
+    position: absolute;
+    top: 100px;
+    left: 900px;
+}
+

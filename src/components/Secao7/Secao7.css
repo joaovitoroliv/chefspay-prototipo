@@ -1,0 +1,17 @@
+.secao7 {
+    position: absolute;
+    width: 100%;
+    height: 431px;
+    left: 0px;
+    top: 4800px;
+}
+
+.secao7 .card-gratuito {
+margin: 0;
+padding: 0;
+display: block;
+display: flex;
+justify-content: center;
+margin-top: 24px;
+margin-bottom: 94.05px;
+}
